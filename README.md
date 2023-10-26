@@ -14,8 +14,8 @@
 <img src="https://img.shields.io/badge/redux%20toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white"/>
-
-<br />
+<br/>
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FordangIT&show_icons=true&theme=shadow_blue)  
 
@@ -23,12 +23,7 @@
 
 ### 📫Blog 
 <a href="https://velog.io/@fo_rdang" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-<br />
-
 ### Contact 
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-&logo=Gmail&logoColor=white"/>
-
 #### fordang0819@gmail.com
 
 </div>
