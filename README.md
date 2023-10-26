@@ -20,10 +20,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FordangIT&show_icons=true&theme=shadow_blue)  
 
 <br />
-
-### 📫Blog 
+### 📫 Blog & Contact
 <a href="https://velog.io/@fo_rdang" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-### Contact 
 #### fordang0819@gmail.com
 
 </div>
