@@ -1,15 +1,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=_custom_gradient&height=300&section=header&text=FordangIT's%20GitHub&fontSize=90" />
-
+<div align='center'>
 ### 🌱Welcome🌱
 
 ### Technology Stack⚡
+<img src="https://img.shields.io/badge/텍스트-색상?style=flat-square&logo=아이콘이름&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white"/>
 
 ### Blog & Email 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FordangIT&show_icons=true&theme=shadow_blue)  
+</div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FordangIT&show_icons=true&theme=shadow_blue)
 
 <!--
 현재, 프론트엔드 직무로 역량을 쌓아가고 있지만 프로그래밍 전반적으로 많은 관심이 있습니다. 
