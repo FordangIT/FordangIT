@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?
-type=rounded&color=timeGradient&text=Welcome%20to%20FordangIT's%20GitHub%20👋
-&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
+
+<img src="https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20FordangIT's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180" />
 ### 소프트웨어 엔지니어 이유정입니다 👋
 
 현재, 프론트엔드 직무로 역량을 쌓아가고 있지만 프로그래밍 전반적으로 많은 관심이 있습니다. 
