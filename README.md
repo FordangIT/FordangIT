@@ -18,8 +18,10 @@
 ### 📫Blog & Email 
 <a href="https://velog.io/@fo_rdang" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 <br>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-&logo=Gmail&logoColor=white"/>Fordang0819@gmail.com
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-&logo=Gmail&logoColor=white"/>
+`Fordang0819@gmail.com`
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FordangIT&show_icons=true&theme=shadow_blue)  
+
 </div>
 
 
