@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=요동치는개발자%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=판을흔들어%20&fontSize=90" />
 
 ### 소프트웨어 엔지니어 이유정입니다 👋
 
