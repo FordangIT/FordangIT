@@ -23,7 +23,7 @@
 
 ### 📫 Blog & Contact
 <a href="https://velog.io/@fo_rdang" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-<span>fordang0819@gmail.com</span>
+<br/><span>fordang0819@gmail.com</span>
 
 </div>
 
