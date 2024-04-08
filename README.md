@@ -19,6 +19,8 @@
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fordangit&show_icons=true&locale=en&layout=compact" alt="fordangit" /></p>
+
+<br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FordangIT&show_icons=true&theme=shadow_blue)  
 
 <br />
