@@ -17,9 +17,12 @@
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white"/>
 <br/>
 <br/>
+<br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fordangit&show_icons=true&locale=en&layout=compact" alt="fordangit" /></p>
+<br />
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fordangit&show_icons=true&locale=en&layout=compact" alt="fordangit" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fordangit&show_icons=true&locale=en" alt="fordangit" /></p>
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FordangIT&show_icons=true&theme=shadow_blue)  
 
