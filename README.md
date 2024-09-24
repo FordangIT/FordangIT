@@ -27,12 +27,6 @@
 
 <br />
 
-### 📫 Blog & Contact
-<a href="https://velog.io/@fo_rdang" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-<br/><span>fordang0819@gmail.com</span>
-
-</div>
-
 
 <!--
 현재, 프론트엔드 직무로 역량을 쌓아가고 있지만 프로그래밍 전반적으로 많은 관심이 있습니다. 
